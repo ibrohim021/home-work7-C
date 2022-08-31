@@ -1,0 +1,15 @@
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\bin\Debug\net6.0\exe-3.exe
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\bin\Debug\net6.0\exe-3.deps.json
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\bin\Debug\net6.0\exe-3.runtimeconfig.json
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\bin\Debug\net6.0\exe-3.dll
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\bin\Debug\net6.0\exe-3.pdb
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\exe-3.csproj.AssemblyReference.cache
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\exe-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\exe-3.AssemblyInfoInputs.cache
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\exe-3.AssemblyInfo.cs
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\exe-3.csproj.CoreCompileInputs.cache
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\exe-3.dll
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\refint\exe-3.dll
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\exe-3.pdb
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\exe-3.genruntimeconfig.cache
+C:\Users\dim_a\Desktop\home_work7_C#\exe-3\obj\Debug\net6.0\ref\exe-3.dll
